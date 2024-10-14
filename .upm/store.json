@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"30268ee3a935ab718424497e7164b085","lockfileHash":"3a6ccedddd23452f610b9c1ce99b8e7b","guessedImports":["pretty-ms","@discordjs/rest","discord-api-types","express","discord.js","dotenv","@discordjs/builders","pro.db"],"guessedImportsHash":"7593f572dc57d7f5701fe1d97178ed0d"}}}
